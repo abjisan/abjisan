@@ -6,7 +6,10 @@ I'm passionate about coding, problem-solving, and building cool projects. 🚀
 
 ---
 
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+
+
 ---
 <div>
   <div align="right">
