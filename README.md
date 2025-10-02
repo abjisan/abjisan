@@ -94,7 +94,6 @@ I'm passionate about coding, problem-solving, and building cool projects. 🚀
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
 </p>
----
 
 <!-- Footer Wave -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer)
