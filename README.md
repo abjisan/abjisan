@@ -35,7 +35,6 @@ I'm passionate about coding, problem-solving, and building cool projects. 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abjisan)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abajisan@gmail.com)
 
-## 🐍 Contribution Snake
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
 
