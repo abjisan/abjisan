@@ -1,8 +1,23 @@
 ## Hi It's me JISAN 👋
 Welcome to my litte world!
 
-📊 GitHub Stats
 ![Jisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abjisan&show_icons=true&theme=radical)
+
+## About Me
+- 🎓 Student at [Sylhet Metropolitan University, Bangladesh]
+- 💻 Skills: Python,C++, HTML, CSS, Java, 
+- 🌍 Location: Sylhet, Bangladesh
+- 🎯 Goals: Become a Software Engineer
+- 📫 Email: abajisan@gmail.com
+
+- ## Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abjisan)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abajisan@gmail.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjisan&layout=compact&theme=radical)
+
+<img src="https://raw.githubusercontent.com/trioloka/trioloka/main/bottom_header.svg" alt="wave">
+  
 
 
 <!--
