@@ -6,8 +6,7 @@ I'm passionate about coding, problem-solving, and building cool projects. 🚀
 
 ---
 
-## 📊 GitHub Stats                        
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+## 📊 GitHub Stats                       <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ![Jisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abjisan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjisan&layout=compact&theme=radical)
 
