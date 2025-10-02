@@ -3,6 +3,8 @@ Welcome to my litte world!
 
 ![Jisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abjisan&show_icons=true&theme=radical)
 
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer)
+
 ## About Me
 - 🎓 Student at [Sylhet Metropolitan University, Bangladesh]
 - 💻 Skills: Python,C++, HTML, CSS, Java, 
