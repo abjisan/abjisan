@@ -15,8 +15,9 @@ Welcome to my litte world!
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abajisan@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjisan&layout=compact&theme=radical)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer)
 
-<img src="https://raw.githubusercontent.com/trioloka/trioloka/main/bottom_header.svg" alt="wave">
+
   
 
 
