@@ -49,6 +49,7 @@ I'm passionate about coding, problem-solving, and building cool projects. 🚀
 - 🌍 Location: Sylhet, Bangladesh  
 - 🎯 Goals: Complete my degree & become a great Software Engineer  
 - 📫 Reach me: *abajisan@gmail.com*
+
 - <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 ---
 
