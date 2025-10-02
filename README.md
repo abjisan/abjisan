@@ -1,13 +1,12 @@
 <!-- Header Wave -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi,%20I'm%20%20jisan!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 # 👋 Welcome to my GitHub!
 I'm passionate about coding, problem-solving, and building cool projects. 🚀  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats                         <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ![Jisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abjisan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjisan&layout=compact&theme=radical)
 
