@@ -1,6 +1,8 @@
 <!-- Header Wave -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi,%20I'm%20%20jisan!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 # 👋 Welcome to my GitHub!
 I'm passionate about coding, problem-solving, and building cool projects. 🚀  
 
