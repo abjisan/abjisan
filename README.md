@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi It's me JISAN 👋
+Welcome to my litte world!
+
+📊 GitHub Stats
+![Jisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abjisan&show_icons=true&theme=radical)
+
 
 <!--
 **abjisan/abjisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
