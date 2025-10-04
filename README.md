@@ -65,6 +65,8 @@
 <a href="https://x.com/your_x_abjisan__29" target="_blank">
   <img src="https://cdn.simpleicons.org/x/1DA1F2" width="18" height="18" />
 </a>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_jisantms3272496)
+
 
 
 
