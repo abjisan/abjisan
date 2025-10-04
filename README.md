@@ -1,9 +1,16 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<!-- Header Wave -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi,%20I'm%20%20jisan!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abjisan.abjisan&"  />
+</div>
+
+###
+
+<h2 align="center">hey👋 It's Jisan</h2>
+
+###
 
 # 👋 Welcome to my GitHub!
 I'm passionate about coding, problem-solving, and building cool projects. 🚀  
