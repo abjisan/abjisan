@@ -63,7 +63,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abjisan)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abajisan@gmail.com)
 <a href="https://x.com/your_x_abjisan__29" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/1DA1F2" width="16" height="16" />
+  <img src="https://cdn.simpleicons.org/x/1DA1F2" width="18" height="18" />
 </a>
 
 
